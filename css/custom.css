@@ -7,3 +7,18 @@ Created:December 2014
 License URI:http://support.wrapbootstrap.com/
 File Description: Place here your custom CSS styles
 */
+
+
+
+.page-wrapper {
+    background-color: #d1d3d2 !important;
+}
+.header-container{
+     background-color:#E6E6C4 !important;
+}
+#logo {
+    padding-bottom:10px;
+}
+#nav-menu{
+    padding-top:15px;
+}
