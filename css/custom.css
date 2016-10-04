@@ -22,3 +22,6 @@ File Description: Place here your custom CSS styles
 #nav-menu{
     padding-top:15px;
 }
+.main-container{
+    background-color: #ffffff !important;
+}
